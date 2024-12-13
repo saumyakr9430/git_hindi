@@ -1,1 +1,2 @@
 this is my new git learning 1st file .
+changes to file 1 .
