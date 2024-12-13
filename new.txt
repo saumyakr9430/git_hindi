@@ -1,3 +1,5 @@
 this is my new git learning 1st file .
 changes to file 1 .
 Now learning github and its uses.
+
+now will  add new things .
